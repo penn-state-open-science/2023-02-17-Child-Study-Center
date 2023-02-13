@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-2023-02-17-Child-Study-Center.git.Rproj
+*.Rproj
+.DS_Store
