@@ -1,0 +1,10 @@
+.csl-entry {
+  text-align: left;
+  font-size: small;
+  text-indent: -1em;
+}
+
+slides > slide {
+  overflow-x: auto !important;
+  overflow-y: auto !important;
+}
